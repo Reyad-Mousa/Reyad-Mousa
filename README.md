@@ -14,7 +14,7 @@ I recently architected and built a production-ready **Learning Management System
 * **📹 Features:** DRM-like video streaming, progress tracking, drag-and-drop course builder, and secure payments.
 * **🛠 Tech Stack:** Next.js 16 (App Router), TypeScript, Drizzle ORM, NeonDB (Postgres), Tailwind CSS.
 
-[🔴 View Live Demo](#) &nbsp; | &nbsp; [💻 View Source Code](https://github.com/Reyad-Mousa/my-lms)
+[🔴 View Live Demo]([#](https://my-lms-roan.vercel.app/) &nbsp; | &nbsp; [💻 View Source Code](https://github.com/Reyad-Mousa/my-lms)
 
 ---
 
