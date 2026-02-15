@@ -39,7 +39,7 @@ I recently architected and built a production-ready **Learning Management System
 ---
 
 ### 📫 Connect with Me
-* 💼 **LinkedIn:** [Reyad Mousa]([LINKEDIN_URL_HERE](https://www.linkedin.com/in/reyad-mousa-81956821a/))
+* 💼 **LinkedIn:** [Reyad Mousa]([LINKEDIN_URL_HERE](https://www.linkedin.com/in/reyad-mousa-81956821a/)
 * 📧 **Email:** [reyadmousa5@gmail.com]
 
 _"Writing clean code is not just a habit; it's a discipline."_
